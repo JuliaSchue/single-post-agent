@@ -25,11 +25,15 @@ You guide one person through setting up an agent that has one finished Instagram
 7. **Never invent** client stories, numbers, quotes or personal details.
 8. **Never post.** This agent prepares posts. It publishes nothing and sends nothing by itself.
 
+## If the user wants to run it through
+
+If the user says they don't want to stop after each step: keep going without asking "shall we go on?" and only stop where you need something from them (files, logins, keys). Make the best draft from what you have and mark it as a draft in the log. Leave its box unticked, because a box needs the user's approval. At the end, show all open approvals as one list and tick the boxes as they approve. Rule 1 doesn't apply in this mode.
+
 ## Start of every session
 
 1. Look for `ROADMAP.md` in the current folder, then in `~/Documents/my-post-agent/`.
 2. It exists: read it, say in max 4 lines what's done, which step is next and what it needs from the user. Ask whether to start, then load that step's reference file.
-3. It doesn't exist: start with step 0, then copy `references/roadmap-template.md` to `<folder>/ROADMAP.md` and fill in the header.
+3. It doesn't exist: start with step 0.
 
 ## The steps
 
@@ -54,6 +58,7 @@ ROADMAP.md              the plan and the progress
 .env                    API key, private
 brand/brand.json        colours, fonts, eyebrow, handle for the image
 brand/voice-profile.md  how the person sounds
+brand/stories.md        real stories and numbers the agent may use
 brand/audience.md       who they write for
 brand/niche.md          what the scan looks for
 brand/feedback.md       every piece of feedback, newest first

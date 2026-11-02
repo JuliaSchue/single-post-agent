@@ -1,6 +1,6 @@
 # Step 3: Voice
 
-**Goal:** `brand/voice-profile.md` makes the posts sound like the person.
+**Goal:** `brand/voice-profile.md` makes the posts sound like the person, and `brand/stories.md` gives the agent real material.
 
 ## What the user does
 
@@ -12,10 +12,11 @@ First ask whether they already have a voice profile or brand voice document. If 
 
 1. Read the samples and ask one question at a time, 3 to 5 at most: words they love, words they would never use, how they'd explain their main idea to a friend, personal details they're happy to share.
 2. Write `brand/voice-profile.md`: in one line, how their texts move, typical phrases with real quotes, personal details they're happy to use, and rules (sentence length, words to avoid). Every rule gets a quote from the samples. Keep the samples themselves at the end of the file.
-3. Proof: write one hook on a topic from the samples with the profile and show it. Change the profile until it sounds like them.
+3. Ask for 3 to 5 real stories and numbers they're happy to share: a mistake, a result, a turning point. Write them to `brand/stories.md` in their own words, with the exact numbers. Never add anything. If they have none yet, the file stays short and they can add more any time.
+4. Proof: write one hook on a topic from the samples with the profile and show it. Change the profile until it sounds like them.
 
 ## Done when
 
-- `brand/voice-profile.md` exists and the user approved it in words
+- `brand/voice-profile.md` and `brand/stories.md` exist and the user approved them in words
 
 **STOP:** tick, ask about step 4.

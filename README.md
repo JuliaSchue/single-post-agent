@@ -1,6 +1,6 @@
 # Single Post Agent
 
-One finished Instagram post every morning, in your voice and your brand design. A free Claude Code plugin for coaches and creators from the Claude Bootcamp by Julia Schürer.
+The Content Agent for Instagram from the Claude Bootcamp. One finished Instagram post every morning, in your voice and your brand design. A free Claude Code plugin for coaches and creators by Julia Schürer.
 
 **Every morning the agent:** scans your Instagram niche, picks the best topic and keeps five in reserve, writes the post in your voice and puts your hook on one of your own photos.
 

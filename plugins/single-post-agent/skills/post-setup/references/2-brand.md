@@ -14,9 +14,9 @@
    This is only the format. Use the person’s own colours and fonts, never these values. `paper` = light colour, `ink` = dark colour, `accent` = the marked part of the hook. Fonts must exist on Bunny Fonts (fonts.bunny.net). If a brand font isn't there, agree on a free look-alike. The accent needs enough contrast with `ink`, because the marked text is `ink` on `accent`.
 3. Build a test image with a sample hook. The script is in the `post-daily` skill of this plugin, in `scripts/render_post.py`:
 
-   `python3 <path>/render_post.py --brand brand/brand.json --photo my-photos/<photo> --hook "Three posts a week" --highlight "without the blank screen." --out posts/test/image.png`
+   `python3 <path>/render_post.py --brand brand/brand.json --photo my-photos/<photo> --hook "Three posts a week" --highlight "without the blank screen." --placement bottom --out posts/test/image.png`
 
-   If no browser is found, explain that the image needs Google Chrome and ask whether they want to install it. Show the image. Change `brand.json` until the user likes it.
+   If no browser is found, explain that the image needs Google Chrome and ask whether they want to install it. Use `top` instead of `bottom` if `INDEX.md` says the text belongs at the top of this photo. Show the image. Change `brand.json` until the user likes it.
 
 ## Done when
 
