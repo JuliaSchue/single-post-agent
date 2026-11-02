@@ -1,0 +1,7 @@
+{
+  "name": "single-post-agent",
+  "version": "1.0.0",
+  "description": "One finished Instagram post every morning: niche scan, topic with five in reserve, caption in your voice, your photo with a hook in your brand design. It never posts anything by itself.",
+  "author": { "name": "Julia Schuerer (Coach Code Club)" },
+  "keywords": ["instagram", "content", "agent", "single post"]
+}

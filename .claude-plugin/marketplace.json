@@ -1,0 +1,15 @@
+{
+  "name": "single-post-agent-marketplace",
+  "owner": { "name": "Julia Schuerer (Coach Code Club)" },
+  "description": "The Single Post Agent: one finished Instagram post every morning, in your voice and your brand design.",
+  "plugins": [
+    {
+      "name": "single-post-agent",
+      "source": "./plugins/single-post-agent",
+      "description": "Sets up a daily agent that scans your Instagram niche, picks a topic, writes a post in your voice and puts your hook on one of your own photos. You check it and post it yourself.",
+      "author": { "name": "Julia Schuerer (Coach Code Club)" },
+      "category": "productivity",
+      "keywords": ["instagram", "content", "agent", "single post"]
+    }
+  ]
+}
